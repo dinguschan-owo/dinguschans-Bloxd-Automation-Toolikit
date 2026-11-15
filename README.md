@@ -40,6 +40,16 @@ cheating/hacking/scripting/macroing/botting toolkit, but I do not condone using 
 
 This toolkit also allows the creation of profiles to save and load different module combinations and settings, and multiple modules can be selected and started from Start Selected to launch compatible selected modules together.
 
+## FAQ
+Q: Will I get caught? The Bloxd devs are pretty good at patching hooks and catching cheaters!
+A: Nah, this toolkit is external and interacts with Windows, not bloxd.io. It does not hook into your browser, nor directly interact with the page itself, and Bloxd's behavioral anticheat is so bad I'm not even sure it actually exists. Just be smart about usage.
+
+Q: How do I use this? I've only ever used Tampermonkey scripts!
+A: See below on instructions for Windows. Also, don't use Tampermonkey scripts. Lotta malicious stuff out there.
+
+Q: I found a bug, and I can't effectively bot in my SINGLEPLAYER world!
+A: Report it on this repo, just make a new issue and include details and screenshots.
+
 ## Requirements
 
 - Windows 10 or 11.
