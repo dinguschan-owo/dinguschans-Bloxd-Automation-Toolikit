@@ -1,6 +1,6 @@
 # Dinguschan's Bloxd Automation Toolkit
 
-A Windows desktop automation toolkit for Bloxd. The current application is the
+A Windows desktop automation toolkit for Bloxd.io. The current application is the
 single-file `dinguschansautomation.py` script. This toolkit IS a
 cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers.
 
