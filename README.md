@@ -86,7 +86,11 @@ Settings and profiles are stored under:
 
 ## Gallery
 
+Here's the GUI and all of the modules included.
+
 https://github.com/user-attachments/assets/844fa07b-3da2-46f2-8fa2-365dd8f44a77
 
-<img width="1919" height="977" alt="overlays" src="https://github.com/user-attachments/assets/99786bbb-318b-4785-aef8-2a03d85ae4aa" />
+And here's a brief demo of just a few modules
+
+https://github.com/user-attachments/assets/86284cf3-ca41-49f9-8ec7-4dfa61409088
 
