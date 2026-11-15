@@ -6,6 +6,8 @@ cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers
 
 ## Features
 
+[Jump to the screenshot gallery](#gallery)
+
 ### Combat
 
 - **Autoeat** — Swaps to and uses the selected hotbar item when health reaches the configured threshold.
@@ -81,4 +83,10 @@ Settings and profiles are stored under:
 ```text
 %APPDATA%\dinguschan-tools\
 ```
+
+## Gallery
+
+https://github.com/user-attachments/assets/844fa07b-3da2-46f2-8fa2-365dd8f44a77
+
+<img width="1919" height="977" alt="overlays" src="https://github.com/user-attachments/assets/99786bbb-318b-4785-aef8-2a03d85ae4aa" />
 
