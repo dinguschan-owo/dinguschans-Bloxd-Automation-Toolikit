@@ -1,6 +1,6 @@
 # Dinguschan's Bloxd Automation Toolkit
 
-A Windows desktop automation toolkit for Bloxd.io. The current application is the
+A Windows desktop automation toolkit for Bloxd. The current application is the
 single-file `dinguschansautomation.py` script. This toolkit IS a
 cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers.
 
@@ -8,16 +8,16 @@ cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers
 
 ### Combat
 
-- **Autoeat** — Uses the selected hotbar item when health reaches the configured threshold.
-- **Autosprint** — Repeatedly activates sprint at the configured interval.
-- **Clicks** — Repeats the selected mouse click at the configured interval.
-- **Hotbar Alert** — Watches selected hotbar slots and alerts when an item count is at or below the threshold.
+- **Autoeat** — Swaps to and uses the selected hotbar item when health reaches the configured threshold.
+- **Autosprint** — Repeatedly activates sprint at the configured interval, keeping you permanently sprinting.
+- **Clicks** — Repeats or holds the selected mouse click at the configured interval.
+- **Hotbar Alert** — Watches selected hotbar slots and adds a little alert on the slot when an item count is at or below the threshold.
 
 ### Automation
 
-- **Autofish** — Detects fishing bites and automates reeling and recasting.
-- **Grid Path** — Draws a route on a grid and follows it, with an optional pause between spaces.
-- **Keys** — Repeats the selected key using the chosen mode and interval.
+- **Autofish** — Smart autofishing module that detects fishing bites and automates reeling and recasting. Supports random recasting in different spots as well as automatically chaining glowtide flares in the skyblock gamemode.
+- **Grid Path** — Allows you to draw a route on a grid and bot your player movement in a loop, with an optional pause between spaces.
+- **Keys** — Repeats or holds the selected key using the chosen mode and interval.
 - **Pattern** — Runs a custom loop of key, click, pause, and camera-turn steps.
 - **Anti AFK** — Performs periodic actions such as jumping, clicking, or moving.
 
@@ -30,13 +30,13 @@ cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers
 
 ### Misc
 
-- **Input Blocker** — Blocks selected keyboard keys or mouse buttons.
-- **Coordinates** — Stores named X, Y, and Z coordinates.
+- **Input Blocker** — Blocks selected keyboard keys or mouse buttons that may interfere with automation.
+- **Coordinates** — Store your named X, Y, and Z coordinates.
 - **Spin** — Turns the camera continuously in the selected direction.
-- **Align** — Rotates the on-screen square to line it up with the screen.
-- **Center** — Moves the on-screen square to the center of the screen.
+- **Align** — Looks down and rotates to line your player up with a cardinal direction. Useful for grid pathing to avoid wandering off course.
+- **Center** — Centeres your player on your current block.
 
-Profiles let you save and load module settings. Start Selected launches compatible selected modules together.
+This toolkit also allows the creation of profiles to save and load different module combinations and settings, and multiple modules can be selected and started from Start Selected to launch compatible selected modules together.
 
 ## Requirements
 
