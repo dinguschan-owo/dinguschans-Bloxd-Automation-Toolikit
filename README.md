@@ -2,7 +2,7 @@
 
 A Windows desktop automation toolkit for Bloxd. The current application is the
 single-file `dinguschansautomation.py` script. This toolkit IS a
-cheat/hack/botting toolkit, but I do not condone using it on multiplayer servers. This toolkit is fully external, and interacts with Windows, not the bloxd.io website. Don't be stupid when using it. 
+cheating/hacking/scripting/macroing/botting toolkit, but I do not condone using it on multiplayer servers. This toolkit is fully external, and interacts with Windows, not the bloxd.io website. Don't be stupid when using it. 
 
 ## Features
 
